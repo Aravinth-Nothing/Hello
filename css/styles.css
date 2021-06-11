@@ -1,0 +1,115 @@
+@font-face {
+  font-family: 'gill';
+  src:url(Gill.ttf) format('truetype');
+}
+body{
+  font-family: gill;
+}
+#title{
+  background-color: grey;
+  padding: 7% 15%;
+
+}
+.navbar-brand{
+  padding: 0px 20px;
+  font-size: 1.5rem;
+  font-weight: lighter;
+}
+.nav-item{
+  padding: 0px 10px;
+}
+.title-heading{
+  color: white;
+  font-size: 10rem;
+}
+.title-heading-span{
+  font-size: 5rem;
+}
+.title-subtitle{
+  font-family: 'Sacramento', cursive;
+  font-size: 3rem;
+  color: white;
+  padding-left: 2%;
+}
+.title-poster{
+  width: 50%;
+}
+#access{
+  background-color: white;
+  padding: 3% 15%;
+  text-align: center;
+  line-height: 2;
+}
+.input-group{
+  width: 70%;
+  margin: 0px auto;
+  margin-top: 4%;
+  border-radius: 0%;
+  border: solid 1px;
+}
+.input-group-text{
+  background-color: #0f0f0f;
+  color: white;
+  font-size: 2rem;
+}
+.form-control{
+  font-size: 2rem;
+}
+.access-title{
+  font-size: 3rem;
+  font-weight: bold;
+}
+.access-p{
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+#feature{
+  background-color: grey;
+  padding: 7% 15%;
+  text-align: center;
+}
+.feature-text{
+  font-weight: bolder;
+  color: white;
+  padding-top: 4%;
+}
+#carousel{
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #0f0f0f;
+}
+.carousel-img{
+  width: 20%;
+  position: relative;
+  left: 40%;
+}
+.feature-text{
+  color: white;
+}
+#join{
+  background-color: white;
+  text-align: center;
+  padding: 7% 15%;
+}
+.join-button{
+  font-size: 2rem;
+  width: 20%;
+  font-weight:bolder;
+  margin-top: 2%;
+}
+#footer{
+  background-color: grey;
+  color: white;
+  text-align: center;
+  line-height: 3;
+  padding: 3% 7%;
+}
+.footer-icons{
+  padding: 0px 10px;
+}
+.footer-text{
+  font-weight: bold;
+}
+.footer-underline{
+  text-decoration: underline;
+}
